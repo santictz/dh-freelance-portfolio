@@ -1,0 +1,17 @@
+/* mobile-first */
+
+body {
+    background-color: brown;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.titulo-portfolio {
+    background-color: #18bc9c;
+}
+
+/* tablet */
+
+/* desktop */
